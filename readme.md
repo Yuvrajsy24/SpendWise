@@ -13,7 +13,7 @@
     <li>Individuals who want to track their expenses in real-time.</li>
     <li>Users looking for budget management tools.</li>
     <li>People who prefer a simple yet effective finance tracker without overwhelming features.</li>
-    <li>Those who value data privacy and offline access.</li>
+    <li>Those who value data privacy and offline access..</li>
 </ul>
 
 <h2>✨ Features</h2>
