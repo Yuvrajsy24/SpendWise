@@ -1,6 +1,6 @@
 <img align="left" style="margin-top:25px" width="60" height="60" src="assets/icons/wallet.png">
 
-# SpendWise : Smart Spending, Better Saving.💰
+# SpendWise : Smart Spending, Better Saving.💰....
 
 <h2>📌 Overview</h2>
 <p>SpendWise is a personal finance management application developed using Flutter. It helps users track their daily expenses, set budgets, and analyze spending habits through intuitive visual representations. Designed to simplify financial management, SpendWise ensures a seamless experience across both Android and iOS platforms.</p>
